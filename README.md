@@ -67,6 +67,8 @@ pip install -r requirements.txt
 ```
 git clone https://github.com/mlsolver/Sudoku-Solver.git
 ```
+**OR**
+```
 python SudokuGUI.py
 ```
 **OR**
